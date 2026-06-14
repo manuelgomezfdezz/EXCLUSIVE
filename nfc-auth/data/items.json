@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "item_id": "CAM-0001",
+      "item_id": "TEST001",
       "product_name": "Limited Edition T-Shirt",
-      "edition": "01 / 50",
+      "edition": "1 / 1",
       "owner_name": "Manuel Gómez",
       "status": "Active",
       "last_updated": "2026-06-14T10:00:00.000Z"
