@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "item_id": "CAM-0001",
+      "product_name": "Limited Edition T-Shirt",
+      "edition": "01 / 50",
+      "owner_name": "Manu Rodríguez",
+      "status": "Active",
+      "last_updated": "2026-06-14T10:00:00.000Z"
+    },
+    {
+      "item_id": "CAM-0002",
+      "product_name": "Limited Edition T-Shirt",
+      "edition": "02 / 50",
+      "owner_name": "Unclaimed",
+      "status": "Active",
+      "last_updated": "2026-06-14T10:00:00.000Z"
+    },
+    {
+      "item_id": "CAM-0003",
+      "product_name": "Limited Edition T-Shirt",
+      "edition": "03 / 50",
+      "owner_name": "Laura Méndez",
+      "status": "Transferred",
+      "last_updated": "2026-06-14T10:00:00.000Z"
+    }
+  ]
+}
